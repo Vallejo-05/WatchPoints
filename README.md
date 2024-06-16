@@ -14,10 +14,10 @@ Este projeto utiliza um Arduino Uno, um display LCD 16x2 com interface I2C, um b
 - Fios de conexão
 
 ## Requisitos
-Possuir uma conta no tinkercad
-Possuir um navegador que seja compatível com a utilização no tinkercad
-Software Arduino IDE
-Ter um conhecimento básico em C++ e saber montar um arduíno
+- Possuir uma conta no tinkercad
+- Possuir um navegador que seja compatível com a utilização no tinkercad
+- Software Arduino IDE
+- Ter um conhecimento básico em C++ e saber montar um arduíno
 
 ## Configuração do Projeto
 Crie um Novo Circuito dentro do tinkercad
@@ -26,13 +26,13 @@ Utilize um código e C++ que ocorra a inicialização da simulação
 Após isso clique em "Iniciar Simulação" para iniciá-la
 
 ## Funcionamento
-Inicie a contagem clicando no botão
+Inicie a contagem clicando no botão.
 E após 4 horas (5 segundos para simulação), o LED acenderá por 1 segundo e uma mensagem "Premio ganho!" será exibida no display LCD indicando que um produto foi ganho.
 
 ## Membros da equipe
-Augusto Rocha Silva  RM556316
-Gabriel Guerreiro Escobosa Vallejo  RM554973
-Nicolas Lorenzo Ferreira da Silva  RM557962
-Rafael Menezes Viana  RM558287
-Vitoria Fernandes Davi  RM556028
+- Augusto Rocha Silva  RM556316
+- Gabriel Guerreiro Escobosa Vallejo  RM554973
+- Nicolas Lorenzo Ferreira da Silva  RM557962
+- Rafael Menezes Viana  RM558287
+- Vitoria Fernandes Davi  RM556028
 
