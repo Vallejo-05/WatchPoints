@@ -20,10 +20,10 @@ Este projeto utiliza um Arduino Uno, um display LCD 16x2 com interface I2C, um b
 - Ter um conhecimento básico em C++ e saber montar um arduíno
 
 ## Configuração do Projeto
-Crie um Novo Circuito dentro do tinkercad
-Depois adicione os componentes a página e faça suas conexões com os fios de conexão
-Utilize um código e C++ que ocorra a inicialização da simulação
-Após isso clique em "Iniciar Simulação" para iniciá-la
+Crie um Novo Circuito dentro do tinkercad.
+Depois adicione os componentes a página e faça suas conexões com os fios de conexão.
+Utilize um código e C++ que ocorra a inicialização da simulação.
+Após isso clique em "Iniciar Simulação" para iniciá-la.
 
 ## Funcionamento
 Inicie a contagem clicando no botão.
